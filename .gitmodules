@@ -2,7 +2,7 @@
 	path = Courses/awesome-qt
 	url = https://github.com/develooper1994/awesome-qt
 [submodule "Courses/qt6-core-beginners"]
-	path = Courses/qt6-core-intermediate
+	path = Courses/qt6-core-beginners
 	url = https://github.com/develooper1994/qt6-core-beginners
 [submodule "Courses/qt6-core-intermediate"]
 	path = Courses/qt6-core-intermediate
